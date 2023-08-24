@@ -18,7 +18,7 @@ Vinicius Nascimento
 - [valores de ordem de serviços](https://scratch.mit.edu/projects/884978568/)
 
   ## A Hora do Código
-  ![Certificado]()
+  ![Certificado](https://github.com/spvinicius/scratch/blob/main/assets/icons/eyJuYW1lIjoiVmluaWNpdXMgZGUgU291emEgbmFzY2ltZW50byIsImNvdXJzZSI6ImhvdXJvZmNvZGUiLCJkb25vciI6IlZpc3RhIEVxdWl0eSBQYXJ0bmVycyJ9.jpg)
   
   
 
