@@ -16,6 +16,9 @@ Vinicius Nascimento
 - [libras em kilos](https://scratch.mit.edu/projects/884625438/)
 - [custos x vendas](https://scratch.mit.edu/projects/884628546/)
 - [valores de ordem de serviços](https://scratch.mit.edu/projects/884978568/)
+
+  ## A Hora do Código
+  ![Certificado]()
   
   
 
